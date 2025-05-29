@@ -1,0 +1,20 @@
+Evolução Acelerada com Excel: Minha Jornada de Aprendizado com o Felipão
+
+Minha trajetória recente em soluções com Excel foi marcada por três desafios fundamentais que consolidaram meu domínio técnico e minha capacidade de criar ferramentas funcionais, precisas e com alto valor agregado. Sob a orientação do Felipão — cuja didática, clareza e visão estratégica transformaram meu processo de aprendizagem —, cada etapa foi mais do que um simples exercício: foi uma imersão em excelência.
+
+1º Desafio – Arquivo “Para Envio”: Controle de Investimentos
+
+O primeiro desafio, representado pelo arquivo “Para Envio”, consistiu no desenvolvimento de uma ferramenta de controle de investimentos. A proposta envolvia mais do que organização de dados; exigia inteligência estrutural, categorização eficiente e visualização clara de resultados. Uma planilha robusta, capaz de monitorar rentabilidades e a porcentagem por tipo de ativo.
+
+2º Desafio – Arquivo “Desafio para Projeto”: Organizador de Declaração de Imposto de Renda
+
+No segundo desafio, com o arquivo “Desafio para Projeto”, enfrentei uma tarefa de alta complexidade: Organizador para a declaração do Imposto de Renda. Sensibilidade à legislação fiscal e domínio absoluto validações de dados e automações. A ferramenta final feito de forma acompanhado do professor proporcionou uma visão clara das deduções, bens e obrigações, tudo em um formato intuitivo, funcional e altamente confiável.
+
+3º Desafio – Arquivo “Treino - Parte Final - Dashboard”: Visualização Estratégica
+
+O terceiro desafio representou o ápice da jornada: a criação de um dashboard interativo e visualmente impactante. Com o arquivo “Treino - Parte Final - Dashboard”, a missão foi transformar dados brutos em insights estratégicos. A construção envolveu desde modelagem dos dados até aplicação de segmentações dinâmicas e gráficos de alto impacto. O resultado foi uma ferramenta de análise com navegabilidade fluida.
+
+Reflexão Final: Com o Felipão, o Céu é o Limite
+
+Ter o Felipão como mentor não é apenas um privilégio técnico — é uma vantagem estratégica. Sua abordagem une pragmatismo, profundidade e foco em performance real. Sob sua orientação, não apenas desenvolvi habilidades; ativei um novo mindset. Hoje, após esses três desafios, afirmo com convicção: com o Felipão ao lado, sinto-me imbatível.
+
